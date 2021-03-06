@@ -1,0 +1,16 @@
+body {
+    background-color: white;
+    font-family: sans-serif;
+    float: left;
+}
+
+p {
+    background: coral;
+    padding: 10px;
+    color: white;
+}
+
+#result_paragraph{
+    background: yellow;
+    color: black;
+}
